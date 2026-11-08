@@ -4,10 +4,10 @@ Portal web interactivo que recopila y traduce la evidencia científica más reci
 
 ## 📸 Capturas de Pantalla
 
-![Vista Principal de la Plataforma](./assets/screenshot-principal.png)
+![Vista Principal de la Plataforma](captura1.png)
 *Exploración de estudios clínicos clasificados por áreas de la salud.*
 
-![Búsqueda y Fuentes Médicas](./assets/screenshot-busqueda.png)
+![Búsqueda y Fuentes Médicas](captura2.png)
 *Motor de búsqueda conectado a PubMed con enlaces directos a cada investigación.*
 
 ## 🔬 Características Principales
